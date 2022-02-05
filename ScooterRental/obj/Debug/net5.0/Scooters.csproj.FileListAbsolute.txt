@@ -1,0 +1,12 @@
+C:\Users\gbhui\Desktop\ifscoot30.12.21\ScooterRental\ScooterRental\bin\Debug\net5.0\Scooters.deps.json
+C:\Users\gbhui\Desktop\ifscoot30.12.21\ScooterRental\ScooterRental\bin\Debug\net5.0\Scooters.dll
+C:\Users\gbhui\Desktop\ifscoot30.12.21\ScooterRental\ScooterRental\bin\Debug\net5.0\ref\Scooters.dll
+C:\Users\gbhui\Desktop\ifscoot30.12.21\ScooterRental\ScooterRental\bin\Debug\net5.0\Scooters.pdb
+C:\Users\gbhui\Desktop\ifscoot30.12.21\ScooterRental\ScooterRental\obj\Debug\net5.0\Scooters.csproj.AssemblyReference.cache
+C:\Users\gbhui\Desktop\ifscoot30.12.21\ScooterRental\ScooterRental\obj\Debug\net5.0\Scooters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gbhui\Desktop\ifscoot30.12.21\ScooterRental\ScooterRental\obj\Debug\net5.0\Scooters.AssemblyInfoInputs.cache
+C:\Users\gbhui\Desktop\ifscoot30.12.21\ScooterRental\ScooterRental\obj\Debug\net5.0\Scooters.AssemblyInfo.cs
+C:\Users\gbhui\Desktop\ifscoot30.12.21\ScooterRental\ScooterRental\obj\Debug\net5.0\Scooters.csproj.CoreCompileInputs.cache
+C:\Users\gbhui\Desktop\ifscoot30.12.21\ScooterRental\ScooterRental\obj\Debug\net5.0\Scooters.dll
+C:\Users\gbhui\Desktop\ifscoot30.12.21\ScooterRental\ScooterRental\obj\Debug\net5.0\ref\Scooters.dll
+C:\Users\gbhui\Desktop\ifscoot30.12.21\ScooterRental\ScooterRental\obj\Debug\net5.0\Scooters.pdb
